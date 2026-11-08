@@ -5,10 +5,10 @@ on:
     inputs:
       repo:
         required: false
-        default: 'arazy79/android-kernel-tes-4.19'
+        default: 'arazy79/4.19_r_s_u_n_t_k'
       branch:
         required: true
-        default: 'rsuntk'
+        default: 'master'
       defconfig:
         required: true
         default: 'X00TD_defconfig'
