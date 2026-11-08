@@ -1,4 +1,4 @@
-name: Kernel Build X00TD A16 rsuntk
+name: Kernel Build A16 rsuntk
 
 on:
   workflow_dispatch:
